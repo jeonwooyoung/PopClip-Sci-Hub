@@ -2,9 +2,11 @@
 
 A PopClip Extension to get the result from sci-hub.
 
+Forked from [tsaiid](https://github.com/tsaiid)/[PopClip-Extensions](https://github.com/tsaiid/PopClip-Extensions)
+
 ## Icon
 
-![icon](https://raw.githubusercontent.com/tsaiid/PopClip-Extensions/master/SciHubDoi.popclipext/sci-hub-doi.png | width=100)
+![icon](https://raw.githubusercontent.com/tsaiid/PopClip-Extensions/master/SciHubDoi.popclipext/sci-hub-doi.png)
 
 Modified from:
 
